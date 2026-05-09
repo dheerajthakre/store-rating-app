@@ -38,8 +38,8 @@ This platform supports three different roles:
 - JWT_SECRET=your_secret_key
 
 ## Start Backend
-- npm start
-Backend runs on:
+- npm run dev
+  ## Backend runs on:
 http://localhost:4000
 
 ## Frontend Setup
@@ -50,8 +50,8 @@ http://localhost:4000
 - BASE_URL= http://localhost:4000/api
   
 ## Start Frontend
-- npm run dev
-Frontend runs on:
+- npm run start
+  ## Frontend runs on:
 http://localhost:3000
 
 ## Validation Rules
